@@ -20,3 +20,36 @@ def quick_sort(lst):
 a = quick_sort(rew)
 print(a,rew,len(a) == len(rew), sep='\n')
 
+def binary_search(lst, val):
+    max = len(lst) - 1
+    min = 0
+    last_mid = None
+    while True:
+        mid = (max + min) // 2
+        if mid == last_mid:
+            if mid != len(lst) - 1 and mid != 0:
+                if val < 0:
+                    val *= -1
+                if abs(val - lst[mid]) > abs(val - lst[mid+1]):
+                    mid = mid+1
+            return f"val - {val} is not found, nearest val is {lst[mid]} on index {mid}"
+        elif val == lst[mid]:
+            return f"val - {val} on index {mid}"
+        elif val > lst[mid]:
+            min = mid + 1
+        elif val < lst[mid]:
+            max = mid - 1
+        last_mid = mid
+        
+if __name__ == '__main__':
+    print(binary_search(a,5))
+    print(binary_search(a,10))
+    print(binary_search(a,20))
+    print(binary_search(a,40))
+    print(binary_search(a,23))
+    print(binary_search(a,66))
+    print(binary_search(a,69))
+    print(binary_search(a,74))
+    print(binary_search(a,100))
+
+
