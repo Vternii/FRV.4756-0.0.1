@@ -1,4 +1,6 @@
 import random
+import matplotlib.pyplot as plt
+import numpy as np
 
 rew = [5,3,6,8,2,4,5,8,12,54,76,23,65,1,0,54,1,5,3,66,7,12]
 
@@ -41,7 +43,7 @@ def binary_search(lst, val):
             max = mid - 1
         last_mid = mid
         
-if __name__ == '__main__':
+"""if __name__ == '__main__':
     print(binary_search(a,5))
     print(binary_search(a,10))
     print(binary_search(a,20))
@@ -50,6 +52,5 @@ if __name__ == '__main__':
     print(binary_search(a,66))
     print(binary_search(a,69))
     print(binary_search(a,74))
-    print(binary_search(a,100))
-
+    print(binary_search(a,100))"""
 
