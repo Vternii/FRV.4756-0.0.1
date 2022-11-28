@@ -1,0 +1,15 @@
+/home/agent/code/FRV.4756-0.0.1/new_language/bin/Debug/net6.0/new_language
+/home/agent/code/FRV.4756-0.0.1/new_language/bin/Debug/net6.0/new_language.deps.json
+/home/agent/code/FRV.4756-0.0.1/new_language/bin/Debug/net6.0/new_language.runtimeconfig.json
+/home/agent/code/FRV.4756-0.0.1/new_language/bin/Debug/net6.0/new_language.dll
+/home/agent/code/FRV.4756-0.0.1/new_language/bin/Debug/net6.0/new_language.pdb
+/home/agent/code/FRV.4756-0.0.1/new_language/obj/Debug/net6.0/new_language.csproj.AssemblyReference.cache
+/home/agent/code/FRV.4756-0.0.1/new_language/obj/Debug/net6.0/new_language.GeneratedMSBuildEditorConfig.editorconfig
+/home/agent/code/FRV.4756-0.0.1/new_language/obj/Debug/net6.0/new_language.AssemblyInfoInputs.cache
+/home/agent/code/FRV.4756-0.0.1/new_language/obj/Debug/net6.0/new_language.AssemblyInfo.cs
+/home/agent/code/FRV.4756-0.0.1/new_language/obj/Debug/net6.0/new_language.csproj.CoreCompileInputs.cache
+/home/agent/code/FRV.4756-0.0.1/new_language/obj/Debug/net6.0/new_language.dll
+/home/agent/code/FRV.4756-0.0.1/new_language/obj/Debug/net6.0/refint/new_language.dll
+/home/agent/code/FRV.4756-0.0.1/new_language/obj/Debug/net6.0/new_language.pdb
+/home/agent/code/FRV.4756-0.0.1/new_language/obj/Debug/net6.0/new_language.genruntimeconfig.cache
+/home/agent/code/FRV.4756-0.0.1/new_language/obj/Debug/net6.0/ref/new_language.dll
